@@ -1,0 +1,5 @@
+print(1650 ** 1500)
+
+"""  print(1650 ** 1500)
+ValueError: Exceeds the limit (4300 digits) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit
+"""
