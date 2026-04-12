@@ -1,5 +1,5 @@
 '''Algorithm: Safe Road Crossing
-1. Go to the edge of the road (the curb).
+1. Go to the curb.
 2. Stop and look left, right, and left again for traffic.----------conditional
 3. If cars are coming or the road is not clear, go to step 4.------loop
 4. Wait for a short time.------------------------------------------loop
