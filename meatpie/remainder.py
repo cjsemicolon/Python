@@ -1,0 +1,3 @@
+number = 9
+remainder = number % 2
+print(remainder)
