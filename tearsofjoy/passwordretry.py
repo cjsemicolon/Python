@@ -12,5 +12,5 @@ for count in range(3):
     if password == correct:
         print("Access granted")
         break
-else:
-    print("Locked out")
+    else:
+        print("Locked out")
